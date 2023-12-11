@@ -11041,6 +11041,12 @@ html {
   color: #fff;
 }
 
+.no-bullets {
+  list-style-type: none; /* Remove bullets */
+  padding: 0; /* Remove padding */
+  margin: 0; /* Remove margins */
+}
+
 .copyright {
   background-color: #1a252f;
 }
